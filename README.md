@@ -6,4 +6,8 @@ Assignent 2 : I have used cursor as AI pair programmer to create a website for a
 https://www.canva.com/design/DAGQPLgdLvQ/UDWEEPpaZGQ_Jl584QF0pA/edit?utm_content=DAGQPLgdLvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Asssignment 3:  I have use no code AI programming tool AKKIO to make an webapp for restaurant reviews sentiment analysis
+link on canva 
 https://www.canva.com/design/DAGQPkU8O28/jKYmujnzaVmVVPpXpfBFoA/edit?utm_content=DAGQPkU8O28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+link for youtube video 
+https://youtu.be/T7GsU09YFE8
